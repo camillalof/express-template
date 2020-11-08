@@ -10,4 +10,5 @@ Note to self on how to set upp an express-server fast:
 5 add server.js file
 
 6 go to package.json and add: "start": "nodemon server.js --exec babel-node", to script (already did see package.json) -This means that nodemon will run when we press npm start.
-7
+
+7 npm install express
